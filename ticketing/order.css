@@ -1,0 +1,21 @@
+.form{
+    text-align: center;
+    font-weight: 1000;
+}
+.back{
+    background-color: rgba(124, 241, 124, 0.541);
+
+}
+.order{
+    display: flex;
+    text-align: center;
+}
+form{
+    
+    border: 2px solid black;
+    width: 530px;
+    height: 80px;
+    margin: 10px;
+    align-items: center;
+    padding: 5%;
+}
